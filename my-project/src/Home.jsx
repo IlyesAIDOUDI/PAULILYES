@@ -15,7 +15,7 @@ function Home() {
 
     return (
         <div>
-            <div className='text-cyan-400' >
+            <div className='text-slate-50' >
                 <h1>Bienvenue sur notre site ecommerce !</h1>
                 <p>Choisissez des options pour accéder à la page de produits :</p>
             </div>
